@@ -74,12 +74,6 @@ This was one of the most interesting parts of the project because the electronic
 
 ![Project Right Side](project-side-right.jpg)
 
-## 🎥 Demonstration
-
-The demonstration video shows the complete structure and then the roof mechanism responding to the detected rain.
-
-**Demo video:** Coming soon
-
 ## ⏱️ From Idea to Prototype
 
 A short time-lapse also shows part of the process of building the physical model and putting the different components together.
