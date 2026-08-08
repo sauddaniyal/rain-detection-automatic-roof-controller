@@ -74,12 +74,6 @@ This was one of the most interesting parts of the project because the electronic
 
 ![Project Right Side](project-side-right.jpg)
 
-## ⏱️ From Idea to Prototype
-
-A short time-lapse also shows part of the process of building the physical model and putting the different components together.
-
-**Build time-lapse:** Coming soon
-
 ## 💡 What I Learned
 
 This project was a good opportunity to move beyond designing logic on paper and actually connect it to a physical system.
